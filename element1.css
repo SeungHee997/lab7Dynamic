@@ -1,0 +1,23 @@
+#healthbar {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#white {
+    background-color: white;
+    border:solid 1px black;
+    width: 60%;
+    height: 10%;
+    position: relative;
+}
+
+#pink {
+    /* border:solid 1px black; */
+    background-color: pink;
+    width: 90%;
+    height: 100%;
+    position: absolute;
+}
