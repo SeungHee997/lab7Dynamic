@@ -1,0 +1,25 @@
+#greet {
+    width: 100vw;
+    height: 100vh;
+}
+
+#inputBox {
+    display: flex;
+    width: 50%;
+    height:10%;
+}
+
+#nameCollector {
+    width: 70%;
+    height: 80%;
+}
+
+#button {
+    width:20%;
+    height: 80%;
+}
+
+#answerBox {
+    width: 50%;
+    height:10%;
+}
